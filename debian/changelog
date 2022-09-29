@@ -1,0 +1,35 @@
+golang-github-lofanmi-pinyin-dev (2.0.0.0) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Uniontechos THIRD Maintainers <uniontechos-third@uniontech.com>  Tue, 14 Jun 2022 06:02:10 -0400
+
+golang-github-lofanmi-pinyin-dev (2.0.0.0) unstable; urgency=medium
+
+  * release 2.0.0.0
+
+ --  <fanpengcheng@uniontech.com>  Tue, 14 June 2022 17:30:13 +0800
+
+golang-github-lofanmi-pinyin-dev (1.0.0.1-1.1) UNRELEASED; urgency=medium
+
+  * init lofanmi-pinyin
+
+ -- Uniontechos THIRD Maintainers <lee@lee-PC>  Tue, 02 Nov 2021 10:08:44 +0800
+
+golang-github-lofanmi-pinyin-dev (1.0.0.1-1) unstable; urgency=medium
+
+  * update
+
+ -- Uniontechos THIRD Maintainers <uniontechos-third@uniontech.com>  Thu, 17 Dec 2020 09:46:39 +0800
+
+golang-github-lofanmi-pinyin-dev (0.0.2-mum1) unstable; urgency=medium
+
+  * Update control
+
+ -- system-dev <system-dev@uniontech.com>  Fri, 11 Dec 2020 11:26:02 +0800
+
+golang-github-lofanmi-pinyin-dev (0.0.1-num1) unstable; urgency=medium
+
+  * Initial release
+
+ -- system-dev <system-dev@uniontech.com>  Fri, 04 Dec 2020 09:58:50 +0800

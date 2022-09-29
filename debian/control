@@ -1,0 +1,15 @@
+Source: golang-github-lofanmi-pinyin-dev
+Section: utils
+Priority: optional
+Maintainer: Uniontechos THIRD Maintainers <uniontechos-third@uniontech.com>
+Build-Depends: debhelper (>= 11)
+Standards-Version: 4.1.3
+Homepage: http://www.deepin.com
+#Vcs-Browser: https://salsa.debian.org/debian/pinyin-golang
+#Vcs-Git: https://salsa.debian.org/debian/pinyin-golang.git
+
+Package: golang-github-lofanmi-pinyin-dev
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Chinese to pinyin class library
+ provide more accurate Chinese to pinyin solutions.
